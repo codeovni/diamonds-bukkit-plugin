@@ -1,6 +1,8 @@
 # Diamonds
 Break a stone block with a diamond pickaxe has a 10% chance of getting a diamond.
 
+![Screen](https://i.imgur.com/8bxarsb.png)
+
 #### Compatibility
 Compatible with Minecraft 1.18 and Bukkit, SpigotMC, PaperMC.
 
