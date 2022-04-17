@@ -1,0 +1,10 @@
+name: ${name}
+description: ${description}
+author: ${author}
+main: ${mainClass}
+version: ${version}
+api-version: 1.18
+url: ${url}
+commands:
+  diamonds:
+    description: "Break a stone block with a diamond pickaxe has a 10% chance of getting a diamond."
